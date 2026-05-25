@@ -1,5 +1,5 @@
 Hi 👋, Hamza Here!<br/>
-CS undergrad @ IEM Kolkata, obsessed with turning raw data into things that actually work.<br/>
+CS undergrad @ IEM Kolkata(Newtown Campus), obsessed with turning raw data into things that actually work.<br/>
 From LLM-powered stock analysts to real-time F1 telemetry dashboards — I try to build at the intersection of ML Engineering & Data Systems.<br/>
 <br/>
 🧠 Currently exploring: LLM integration, RAG systems & online learning<br/>
