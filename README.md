@@ -7,7 +7,6 @@ From LLM-powered stock analysts to real-time F1 telemetry dashboards — I try t
 🛠️ Stack: Python · scikit-learn · LangChain · FastAPI · Streamlit · SQL<br/>
 🎯 Looking for: Data Science / ML Engineering opportunities to work and connect<br/>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hashr_codes_fr.what)
 
@@ -45,8 +44,8 @@ From LLM-powered stock analysts to real-time F1 telemetry dashboards — I try t
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MASTERRR06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=MASTERRR06&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=MASTERRR06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MASTERRR06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MASTERRR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
