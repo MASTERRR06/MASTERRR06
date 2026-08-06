@@ -43,10 +43,14 @@ From LLM-powered stock analysts to real-time F1 telemetry dashboards — I try t
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MASTERRR06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MASTERRR06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MASTERRR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.shion.dev/api?username=MASTERRR06&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/></td>
+    <td width="50%"><img src="https://streak-stats.demolab.com/?user=MASTERRR06&theme=dark&hide_border=false" width="100%" alt="GitHub Streak"/></td>
+  </tr>
+</table>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MASTERRR06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=850" width="100%" alt="Most Used Languages"/>
 
 <!--
 ### 🔝 Top Contributed Repo
